@@ -17,3 +17,8 @@ gcloud functions deploy Tao --runtime go111 --trigger-http
 gcloud functions list
 gcloud functions describe Tao
 ```
+
+* Sources
+    * https://cloud.google.com/functions/
+        * https://cloudonair.withgoogle.com/events/americas/watch?talk=cloud-functions
+    * https://benjamincongdon.me/blog/2019/01/21/Getting-Started-with-Golang-Google-Cloud-Functions/
