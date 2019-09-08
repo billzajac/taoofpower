@@ -19,10 +19,11 @@ func main() {
 */
 
 func Tao(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprint(w, GetPassage())
+	index, passage := GetPassage()
+	fmt.Fprintf(w, "%d. %s", index, passage)
 }
 
-func GetPassage() string {
+func GetPassage() (int, string) {
 	var passages [81]string
 	passages[0] = `THE BEGINNING OF POWER
 The Tao that can be expressed
@@ -376,5 +377,7 @@ When Simplicity is broken up, It is made into instruments. Evolved Individuals w
 	passages[78] = ``
 	passages[79] = ``
 	passages[80] = ``
-	return passages[rand.Intn(80)]
+
+	index := rand.Intn(80)
+	return index + 1, passages[index]
 }
