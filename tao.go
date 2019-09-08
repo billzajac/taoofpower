@@ -185,144 +185,144 @@ To know the Absolute is to be tolerant.
 What is tolerant becomes impartial; What is impartial becomes powerful; What is powerful becomes natural; What is natural becomes Tao.
 What has Tao becomes everlasting And free from harm throughout life.
 `
-	passages[16] = `THE WAY OF SUBTLE INFLUENCE 
-Superior leaders are those whose existence is merely known; 
-The next best are loved and honored; The next are respected; 
-And the next are ridiculed. 
-Those who lack belief Will not in turn be believed. But when the command comes from afar And the work is done, the goal achieved, The people say, "We did it naturally." 
+	passages[16] = `THE WAY OF SUBTLE INFLUENCE
+Superior leaders are those whose existence is merely known;
+The next best are loved and honored; The next are respected;
+And the next are ridiculed.
+Those who lack belief Will not in turn be believed. But when the command comes from afar And the work is done, the goal achieved, The people say, "We did it naturally."
 `
-	passages[17] = `LOSING THE INSTINCTS 
-When the great Tao is forgotten, 
-Philanthropy and morality appear. Intelligent strategies are produced, 
-And great hypocrisies emerge. 
-When the Family has no Harmony, 
-Piety and devotion appear. The nation is confused by chaos, 
-And loyal patriots emerge. 
+	passages[17] = `LOSING THE INSTINCTS
+When the great Tao is forgotten,
+Philanthropy and morality appear. Intelligent strategies are produced,
+And great hypocrisies emerge.
+When the Family has no Harmony,
+Piety and devotion appear. The nation is confused by chaos,
+And loyal patriots emerge.
 `
-	passages[18] = `RETURN TO SIMPLICITY 
-Discard the sacred, abandon strategies; 
-The people will benefit a hundredfold. Discard philanthropy, abandon morality; 
-The people will return to natural love. Discard cleverness, abandon the acquisitive; 
-The thieves will exist no longer. 
-However, if these three passages are inadequate, 
-Adhere to these principles: 
-Perceive purity; Embrace simplicity; Reduce self-interest; Limit desires. 
+	passages[18] = `RETURN TO SIMPLICITY
+Discard the sacred, abandon strategies;
+The people will benefit a hundredfold. Discard philanthropy, abandon morality;
+The people will return to natural love. Discard cleverness, abandon the acquisitive;
+The thieves will exist no longer.
+However, if these three passages are inadequate,
+Adhere to these principles:
+Perceive purity; Embrace simplicity; Reduce self-interest; Limit desires.
 `
-	passages[19] = `DEVELOPING INDEPENDENCE 
-Discard the academic; have no anxiety. How much difference is there between agreement and servility? How much difference is there between good and evil? That one should revere what others revere — how absurd and uncentered! 
-The Collective Mind is expansive and flourishing, 
-As if receiving a great sacrifice, 
-As if ascending a living observatory. I alone remain uncommitted, 
-Like an infant who has not yet smiled, 
-Unattached, without a place to merge. The Collective Mind is all-encompassing. I alone seem to be overlooked. 
-I am unknowing to the core and unclear, unclear! 
-Ordinary people are bright and obvious; 
-I alone am dark and obscure. Ordinary people are exacting and sharp; 
-I alone am subdued and dull. 
-Indifferent like the sea, 
-Ceaseless like a penetrating wind, 
-The Collective Mind is ever present And yet, I alone am unruly and remote. 
-I alone am different from the others 
-In treasuring nourishment from the Mother. 
+	passages[19] = `DEVELOPING INDEPENDENCE
+Discard the academic; have no anxiety. How much difference is there between agreement and servility? How much difference is there between good and evil? That one should revere what others revere — how absurd and uncentered!
+The Collective Mind is expansive and flourishing,
+As if receiving a great sacrifice,
+As if ascending a living observatory. I alone remain uncommitted,
+Like an infant who has not yet smiled,
+Unattached, without a place to merge. The Collective Mind is all-encompassing. I alone seem to be overlooked.
+I am unknowing to the core and unclear, unclear!
+Ordinary people are bright and obvious;
+I alone am dark and obscure. Ordinary people are exacting and sharp;
+I alone am subdued and dull.
+Indifferent like the sea,
+Ceaseless like a penetrating wind,
+The Collective Mind is ever present And yet, I alone am unruly and remote.
+I alone am different from the others
+In treasuring nourishment from the Mother.
 `
-	passages[20] = `KNOWING THE COLLECTIVE ORIGIN 
-The natural expression of Power 
-Proceeds only through the Tao. The Tao acts through Natural Law; 
-So formless, so intangible. 
-Intangible, formless! 
-At its center appears the Image. Formless, intangible! 
-At its center appears Natural Law. Obscure, mysterious! 
-At its center appears the Life Force. The Life Force is very real; 
-At its center appears truth. 
-From ancient times to the present, Its name ever remains, Through the experience of the Collective Origin. 
-How do I know the way of the Collective Origin? Through this. 
+	passages[20] = `KNOWING THE COLLECTIVE ORIGIN
+The natural expression of Power
+Proceeds only through the Tao. The Tao acts through Natural Law;
+So formless, so intangible.
+Intangible, formless!
+At its center appears the Image. Formless, intangible!
+At its center appears Natural Law. Obscure, mysterious!
+At its center appears the Life Force. The Life Force is very real;
+At its center appears truth.
+From ancient times to the present, Its name ever remains, Through the experience of the Collective Origin.
+How do I know the way of the Collective Origin? Through this.
 `
-	passages[21] = `FOLLOWING THE PATTERN 
-What is curved becomes whole; 
-What is crooked becomes straight. What is deep becomes filled: 
-What is exhausted becomes refreshed. What is small becomes attainable; 
-What is excessive becomes confused. 
-Thus Evolved Individuals hold to the One And regard the world as their Pattern. 
-They do not display themselves; 
-Therefore they are illuminated. They do not define themselves; 
-Therefore they are distinguished. They do not make claims; 
-Therefore they are credited. They do not boast; 
-Therefore they advance. 
-Since, indeed, they do not compete, The world cannot compete with them. 
-That ancient saying: "What is curved becomes whole" 
-Are these empty words? To become whole, 
-Turn within. 
+	passages[21] = `FOLLOWING THE PATTERN
+What is curved becomes whole;
+What is crooked becomes straight. What is deep becomes filled:
+What is exhausted becomes refreshed. What is small becomes attainable;
+What is excessive becomes confused.
+Thus Evolved Individuals hold to the One And regard the world as their Pattern.
+They do not display themselves;
+Therefore they are illuminated. They do not define themselves;
+Therefore they are distinguished. They do not make claims;
+Therefore they are credited. They do not boast;
+Therefore they advance.
+Since, indeed, they do not compete, The world cannot compete with them.
+That ancient saying: "What is curved becomes whole"
+Are these empty words? To become whole,
+Turn within.
 `
-	passages[22] = `THE STEADY FORCE OF ATTITUDE 
-Nature rarely speaks. 
-Hence the whirlwind does not last a whole morning, 
-Nor the sudden rainstorm last a whole day. What causes these? Heaven and Earth. If Heaven and Earth cannot make them long lasting, How much less so can humans? 
-Thus, those who cultivate the Tao 
-Identify with the Tao. Those who cultivate Power 
-Identify with Power. Those who cultivate failure 
-Identify with failure. 
-Those who identify with the Tao 
-Are likewise welcomed by the Tao. Those who identify with Power 
-Are likewise welcomed by Power. Those who identify with failure 
-Are likewise welcomed by failure. 
-Those who lack belief Will not in turn be believed. 
+	passages[22] = `THE STEADY FORCE OF ATTITUDE
+Nature rarely speaks.
+Hence the whirlwind does not last a whole morning,
+Nor the sudden rainstorm last a whole day. What causes these? Heaven and Earth. If Heaven and Earth cannot make them long lasting, How much less so can humans?
+Thus, those who cultivate the Tao
+Identify with the Tao. Those who cultivate Power
+Identify with Power. Those who cultivate failure
+Identify with failure.
+Those who identify with the Tao
+Are likewise welcomed by the Tao. Those who identify with Power
+Are likewise welcomed by Power. Those who identify with failure
+Are likewise welcomed by failure.
+Those who lack belief Will not in turn be believed.
 `
-	passages[23] = `THE DANGER IN EXCESS 
-Those who are on tiptoe cannot stand firm. Those who straddle cannot walk. Those who display themselves cannot illuminate. Those who define themselves cannot be distinguished. Those who make claims can have no credit. Those who boast cannot advance. 
-To those who stay with the Tao, These are like excess food and redundant actions And are contrary to Natural Law. Thus those who possess the Tao turn away. 
+	passages[23] = `THE DANGER IN EXCESS
+Those who are on tiptoe cannot stand firm. Those who straddle cannot walk. Those who display themselves cannot illuminate. Those who define themselves cannot be distinguished. Those who make claims can have no credit. Those who boast cannot advance.
+To those who stay with the Tao, These are like excess food and redundant actions And are contrary to Natural Law. Thus those who possess the Tao turn away.
 `
-	passages[24] = `THE TAO OF GREATNESS 
-There was something in a state of fusion Before Heaven and Earth were born. 
-Silent, vast, 
-Independent, and unchanging; Working everywhere, tirelessly; 
-It can be regarded as Mother of the world. I do not know its name; 
-The word I say is Tao. Forced to give it a name, 
-I say Great. 
-Great means continuing. Continuing means going far. Going far means returning. 
-Therefore the Tao is Great. Heaven and Earth are Great. 
-A leader is likewise Great. In the universe there are four Greatnesses, And leadership is one of them. 
-Humans are modeled on the earth. 
-The earth is modeled on heaven. Heaven is modeled on the Tao. 
-The Tao is modeled on nature. 
+	passages[24] = `THE TAO OF GREATNESS
+There was something in a state of fusion Before Heaven and Earth were born.
+Silent, vast,
+Independent, and unchanging; Working everywhere, tirelessly;
+It can be regarded as Mother of the world. I do not know its name;
+The word I say is Tao. Forced to give it a name,
+I say Great.
+Great means continuing. Continuing means going far. Going far means returning.
+Therefore the Tao is Great. Heaven and Earth are Great.
+A leader is likewise Great. In the universe there are four Greatnesses, And leadership is one of them.
+Humans are modeled on the earth.
+The earth is modeled on heaven. Heaven is modeled on the Tao.
+The Tao is modeled on nature.
 `
-	passages[25] = `THE GRAVITY OF POWER 
-Gravity is the foundation of levity. Stillness is the master of agitation. 
-Thus Evolved Individuals can travel the whole day 
-Without leaving behind their baggage. However arresting the views, 
-They remain calm and unattached. How can leaders with ten thousand chariots 
-Have a light-hearted position in the world? 
-If they are light-hearted, they lose their foundation. If they are agitated, they lose their mastery. 
+	passages[25] = `THE GRAVITY OF POWER
+Gravity is the foundation of levity. Stillness is the master of agitation.
+Thus Evolved Individuals can travel the whole day
+Without leaving behind their baggage. However arresting the views,
+They remain calm and unattached. How can leaders with ten thousand chariots
+Have a light-hearted position in the world?
+If they are light-hearted, they lose their foundation. If they are agitated, they lose their mastery.
 `
-	passages[26] = `THE SKILLFUL EXCHANGE OF INFORMATION 
-A good path has no ruts. A good speech has no flaws. A good analysis uses no schemes. 
-A good lock has no bar or bolt, 
-And yet it cannot be opened. A good knot does not restrain, 
-And yet it cannot be unfastened. 
-Thus Evolved Individuals are always good at saving others; 
-Hence no one is wasted. They are always good at saving things; 
-Hence nothing is wasted. 
-This is called Doubling the Light. 
-Therefore a good person is the teacher of an inferior person; 
-And an inferior person is the resource of a good person. One who does not treasure a teacher, or does not cherish a resource, 
-Although intelligent, is greatly deluded. 
-This is called Significant Subtlety. 
+	passages[26] = `THE SKILLFUL EXCHANGE OF INFORMATION
+A good path has no ruts. A good speech has no flaws. A good analysis uses no schemes.
+A good lock has no bar or bolt,
+And yet it cannot be opened. A good knot does not restrain,
+And yet it cannot be unfastened.
+Thus Evolved Individuals are always good at saving others;
+Hence no one is wasted. They are always good at saving things;
+Hence nothing is wasted.
+This is called Doubling the Light.
+Therefore a good person is the teacher of an inferior person;
+And an inferior person is the resource of a good person. One who does not treasure a teacher, or does not cherish a resource,
+Although intelligent, is greatly deluded.
+This is called Significant Subtlety.
 `
-	passages[27] = `UNITING THE FORCES 
-Know the male, 
-Hold to the female; 
-Become the world's stream. By being the world's stream, 
-The Power will never leave. 
-This is returning to Infancy 
-Know the white, 
-Hold to the black; 
-Become the world's pattern. By becoming the world's pattern, The Power will never falter. 
-This is returning to Limitlessness. 
-Know the glory, 
-Hold to the obscurity; 
-Become the world's valley. By being the world's valley, 
-The Power will be sufficient. 
-This is returning to Simplicity. 
-When Simplicity is broken up, It is made into instruments. Evolved Individuals who employ them, Are made into leaders. In this way the Great System is united. 
+	passages[27] = `UNITING THE FORCES
+Know the male,
+Hold to the female;
+Become the world's stream. By being the world's stream,
+The Power will never leave.
+This is returning to Infancy
+Know the white,
+Hold to the black;
+Become the world's pattern. By becoming the world's pattern, The Power will never falter.
+This is returning to Limitlessness.
+Know the glory,
+Hold to the obscurity;
+Become the world's valley. By being the world's valley,
+The Power will be sufficient.
+This is returning to Simplicity.
+When Simplicity is broken up, It is made into instruments. Evolved Individuals who employ them, Are made into leaders. In this way the Great System is united.
 `
 	passages[28] = ``
 	passages[29] = ``
@@ -373,11 +373,82 @@ When Simplicity is broken up, It is made into instruments. Evolved Individuals w
 	passages[74] = ``
 	passages[75] = ``
 	passages[76] = ``
-	passages[77] = ``
-	passages[78] = ``
-	passages[79] = ``
-	passages[80] = ``
+	passages[77] = `ACCEPTING THE BLAME
+Nothing in the world,
+  Is as yielding and receptive as water;
+Yet in attacking the firm and inflexible,
+  Nothing triumphs so well.
+Because of what it is not,
+  This becomes easy.
 
-	index := rand.Intn(80)
-	return index + 1, passages[index]
+The receptive triumphs over the inflexible;
+  The yielding triumphs over the rigid.
+None in the world do not know this.
+  None have the ability to practice it.
+
+Therefore Evolved Individuals say:
+  One who accepts the disgrace of the organization
+  Can be called the leader of the grain shrine.
+  One who accepts the misfortunes of the organization
+  Can be called the leader of the world.
+
+Right words appear to reverse themselves.
+`
+	passages[78] = `THE POWER IN NOT TAKING ADVANTAGE
+Even when a great resentment is reconciled,
+Some resentment must linger.
+How can this be made good?
+
+That is why Evolved Individuals
+Hold the left side of the contract
+And do not censure others.
+Those with Power are in charge of the contract;
+Those without Power are in charge of resolving it.
+
+The Tao in Nature has no favorites.
+It always works through the good person.
+`
+	passages[79] = `FULFILLING INDEPENDENCE
+In a small organization with few people;
+
+Let there be ten or a hundred times
+  More tools than they can use.
+Let the people value their lives
+  And yet not move far away.
+Even though there are boats and carriages,
+  There is no occasion to use them.
+Even though there are armor and weapons,
+  There is no occasion to display them.
+
+Let the people again knot cords and
+  Their food will be pleasing.
+  Their clothes will be fine.
+  Their homes will be secure.
+  Their customs will be joyful.
+
+Nearby organizations may watch each other;
+  Their crowing and barking may be heard.
+Yet the people may grow old and die
+  Without coming or going between them.
+`
+  passages[80] = `THE EVOLVED WAY
+Sincere words are not embellished;
+  Embellished words are not sincere.
+Those who are good are not defensive;
+  Those who are defensive are not good.
+Those who know are not erudite;
+  Those who are erudite do not know.
+
+Evolved Individuals do not accumulate.
+  The more they do for others, the more they gain;
+  The more they give to others, the more they possess.
+
+The Tao of Nature
+  Is to serve without spoiling.
+The Tao of Evolved Individuals
+  Is to act without contending.
+`
+
+index := rand.Intn(80)
+return index 1, passages[index]
 }
